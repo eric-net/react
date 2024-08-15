@@ -35,6 +35,7 @@ The documentation is divided into several sections:
 * [API Reference](https://react.dev/reference/react)
 * [Where to Get Support](https://react.dev/community)
 * [Contributing Guide](https://legacy.reactjs.org/docs/how-to-contribute.html)
+* [Typescript](https://react.dev/learn/typescript) 
 
 You can improve it by sending pull requests to [this repository](https://github.com/reactjs/react.dev).
 
